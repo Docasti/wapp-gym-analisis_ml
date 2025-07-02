@@ -1,4 +1,5 @@
-# 🧠 Proyecto Final - Análisis de Conversaciones de WhatsApp del Gimnasio
+# 🧠 Proyecto Final - Machine Learning
+## Analisis de sentimientos en conversaciones whatsapp :
 
 ## 📌 Definición del Problema :
 Actualmente, el gimnasio enfrenta deserciones de cclientes que, en muchos casos, podrían haberse anticipado. A través del análisis de las conversaciones de WhatsApp entre el dueño y los clientes, se busca identificar patrones de comunicación que preceden a estas bajas.
