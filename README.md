@@ -25,13 +25,7 @@ Antes de entrenar un modelo, es esencial realizar:
 3. **Evaluación de estilo del dueño:**
    - ¿Su comunicación es empática, reactiva, cortante?
    - ¿Aumenta el riesgo de deserción?
-   - 
-## 📌 Documentación sobre los Datos
-- **Origen:** Exportación de chats de WhatsApp.
-- **Formato:** Texto plano (.txt).
-- **Período cubierto:** 2023, 2024 y lo que va de 2025.
-- **Estructura:** Conversaciones con múltiples clientes; se preservó el contenido completo, sin multimedia, para asegurar mayor cantidad mensajes en el tiemppo.
-- **Procesamiento:** Conversión a DataFrame, limpieza, normalización, anonimización, análisis exploratorio.
+
 
 ## 📌 Metodología y Despliegue
 - **Metodología de trabajo:** Scrum (aplicada de forma individual), organizada en sprints semanales. Esta metodología me permite una planificación clara, entregas regulares, me es muy util para organizarme.
