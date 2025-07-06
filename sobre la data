@@ -1,0 +1,13 @@
+📌 Documentación sobre los Datos
+Origen: Exportación de chats de WhatsApp.
+Formato: Texto plano (.txt).
+Período cubierto: 2023, 2024 y lo que va de 2025.
+Estructura: Conversaciones con múltiples clientes; se preservó el contenido completo, sin multimedia, para asegurar mayor cantidad mensajes en el tiemppo.
+Procesamiento: Conversión a DataFrame, limpieza, normalización, anonimización, análisis exploratorio.
+── data/
+│    ├── chat_crudo  (crudo recien exportado del chat)
+│    ├── chat_etl/       (para datos procesados o intermedios)
+│    └── chat_eda/       (para resultados de análisis exploratorio)
+
+
+
