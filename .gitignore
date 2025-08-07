@@ -1,0 +1,29 @@
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Datos y resultados pesados (cambialo según tu caso)
+data/
+models/
+outputs/
+reports/
+
+# Archivos temporales de sistema
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs y caches
+*.log
+.cache/
