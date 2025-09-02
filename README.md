@@ -29,7 +29,7 @@ Antes de entrenar un modelo, es esencial realizar:
 ## 📌 Documentación sobre los Datos
 - **Origen:** Exportación de chats de WhatsApp.
 - **Formato:** Texto plano (.txt).
-- **Período cubierto:** 2023, 2024 y lo que va de 2025.
+- **Período cubierto:** desde julio 2022 y lo que va de 2025.
 - **Estructura:** Conversaciones con múltiples clientes; se preservó el contenido completo, sin multimedia, para asegurar mayor cantidad mensajes en el tiemppo.
 - **Procesamiento:** Conversión a DataFrame, limpieza, normalización, anonimización, análisis exploratorio.
 
